@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -106,7 +105,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -123,19 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: _Mobs_Bears_Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 116
       y: 4
       width: 46
       height: 215
-    spriteID: a068f0178641b554dbce0e0b496a1c21
+    spriteID: 8b3eff235a8ae604ebe1469a34f16077
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,19 +141,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 116, y: 4}
-  - name: Frame_1
+  - name: _Mobs_Bears_Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 116
       y: 227
       width: 46
       height: 215
-    spriteID: d7f77bd87597d1d43bc9c7112243789c
+    spriteID: b1aeb14f1d5a7854ab67846ec9356eee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -165,19 +161,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 116, y: 227}
-  - name: Frame_2
+  - name: _Mobs_Bears_Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 170
       y: 4
       width: 46
       height: 215
-    spriteID: 01d0ad987817f89428d88752d6c490b3
+    spriteID: 37301c0234a41184db0ac5c4fca2dc0e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -186,19 +181,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 170, y: 4}
-  - name: Frame_3
+  - name: _Mobs_Bears_Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.074074075}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 62
       y: 229
       width: 46
       height: 216
-    spriteID: bcf9c656c1f59c24182594110d6f47ba
+    spriteID: f602fd5af3ef87047a457b4ab88ea8a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -207,19 +201,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 62, y: 229}
-  - name: Frame_4
+  - name: _Mobs_Bears_Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.074074075}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 228
       width: 48
       height: 216
-    spriteID: e9a886307b290f0418a5e3ac3f3ca4c5
+    spriteID: 55f5c1fc3adef294fbb9214e36a9af19
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -228,19 +221,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 228}
-  - name: Frame_5
+  - name: _Mobs_Bears_Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.074074075}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 50
       height: 216
-    spriteID: 5712e4412cfa7224bba25ec8c9d62b81
+    spriteID: 73f129d0db9e38947a9ab763faae4845
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -249,19 +241,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_6
+  - name: _Mobs_Bears_Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 170
       y: 227
       width: 46
       height: 215
-    spriteID: c58c12c1acec95e4f80ad9d5dd060b0a
+    spriteID: 65e561ebcf90fe44999b70968bffc23b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,19 +261,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 170, y: 227}
-  - name: Frame_7
+  - name: _Mobs_Bears_Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 224
       y: 4
       width: 46
       height: 215
-    spriteID: 0c3ca249ecfdbca4abf06a18200fd332
+    spriteID: c37f1fe267708684c8b4e5e9aa975d5e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -291,19 +281,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 224, y: 4}
-  - name: Frame_8
+  - name: _Mobs_Bears_Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.084112145}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 278
       y: 227
       width: 46
       height: 214
-    spriteID: 2695910e167f77546923362981e3fd3b
+    spriteID: a08a83c5f6fa4c9458a151d499cadf5a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,19 +301,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 278, y: 227}
-  - name: Frame_9
+  - name: _Mobs_Bears_Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.088785045}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 332
       y: 4
       width: 46
       height: 214
-    spriteID: 059871b636a7e814aaa404eb809bfe0c
+    spriteID: 3fe854b186778fd41abe384aa02146d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,19 +321,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 332, y: 4}
-  - name: Frame_10
+  - name: _Mobs_Bears_Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.07373272}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 62
       y: 4
       width: 46
       height: 217
-    spriteID: 27758283bb30cd241b8528f6770d8094
+    spriteID: 868ad0c36cd791a458d2302a5ae6c4d3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -354,19 +341,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 62, y: 4}
-  - name: Frame_11
+  - name: _Mobs_Bears_Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.07906976}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 224
       y: 227
       width: 46
       height: 215
-    spriteID: 40d54d9eda0c0ca47acb1368a3e767f0
+    spriteID: 1064e888ff450654f8b4a1040cd1c6ce
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -375,19 +361,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 224, y: 227}
-  - name: Frame_12
+  - name: _Mobs_Bears_Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.074418604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 278
       y: 4
       width: 46
       height: 215
-    spriteID: 72e7066589b58eb4b9fc9d236d02f248
+    spriteID: a360cc7c48d504f48aacd73d16de8c44
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -396,19 +381,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 278, y: 4}
-  - name: Frame_13
+  - name: _Mobs_Bears_Frame_13
     originalName: 
     pivot: {x: 0.5, y: -0.07476635}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 332
       y: 226
       width: 46
       height: 214
-    spriteID: e7c816571cca3e145a4ddf6585fd6edf
+    spriteID: 242b746d6f4a33a49b71b732b60a2171
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -417,19 +401,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 332, y: 226}
-  - name: Frame_14
+  - name: _Mobs_Bears_Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.07692308}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 386
       y: 4
       width: 46
       height: 208
-    spriteID: cf139f84c803d4945b3b004164d5f7a2
+    spriteID: f9f3adca836507e41bef9402c5a89e6a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -438,19 +421,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 386, y: 4}
-  - name: Frame_15
+  - name: _Mobs_Bears_Frame_15
     originalName: 
     pivot: {x: 0.5, y: -0.0776699}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 386
       y: 220
       width: 46
       height: 206
-    spriteID: abaf59428a8f5934794044ab116ac7e1
+    spriteID: a5a6fd788c76c984ebceec88bde8884d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -462,156 +444,140 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1943384416
+    guid: -1570500128
     name: _Mobs_Bears
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: _Mobs_Bears_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: a068f0178641b554dbce0e0b496a1c21
-    - name: Frame_1
+      spriteId: 8b3eff235a8ae604ebe1469a34f16077
+    - name: _Mobs_Bears_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: d7f77bd87597d1d43bc9c7112243789c
-    - name: Frame_2
+      spriteId: b1aeb14f1d5a7854ab67846ec9356eee
+    - name: _Mobs_Bears_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: 01d0ad987817f89428d88752d6c490b3
-    - name: Frame_3
+      spriteId: 37301c0234a41184db0ac5c4fca2dc0e
+    - name: _Mobs_Bears_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 216
-      spriteId: bcf9c656c1f59c24182594110d6f47ba
-    - name: Frame_4
+      spriteId: f602fd5af3ef87047a457b4ab88ea8a0
+    - name: _Mobs_Bears_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 16
         width: 48
         height: 216
-      spriteId: e9a886307b290f0418a5e3ac3f3ca4c5
-    - name: Frame_5
+      spriteId: 55f5c1fc3adef294fbb9214e36a9af19
+    - name: _Mobs_Bears_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 7
         y: 16
         width: 50
         height: 216
-      spriteId: 5712e4412cfa7224bba25ec8c9d62b81
-    - name: Frame_6
+      spriteId: 73f129d0db9e38947a9ab763faae4845
+    - name: _Mobs_Bears_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: c58c12c1acec95e4f80ad9d5dd060b0a
-    - name: Frame_7
+      spriteId: 65e561ebcf90fe44999b70968bffc23b
+    - name: _Mobs_Bears_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: 0c3ca249ecfdbca4abf06a18200fd332
-    - name: Frame_8
+      spriteId: c37f1fe267708684c8b4e5e9aa975d5e
+    - name: _Mobs_Bears_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 18
         width: 46
         height: 214
-      spriteId: 2695910e167f77546923362981e3fd3b
-    - name: Frame_9
+      spriteId: a08a83c5f6fa4c9458a151d499cadf5a
+    - name: _Mobs_Bears_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 19
         width: 46
         height: 214
-      spriteId: 059871b636a7e814aaa404eb809bfe0c
-    - name: Frame_10
+      spriteId: 3fe854b186778fd41abe384aa02146d8
+    - name: _Mobs_Bears_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 217
-      spriteId: 27758283bb30cd241b8528f6770d8094
-    - name: Frame_11
+      spriteId: 868ad0c36cd791a458d2302a5ae6c4d3
+    - name: _Mobs_Bears_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 17
         width: 46
         height: 215
-      spriteId: 40d54d9eda0c0ca47acb1368a3e767f0
-    - name: Frame_12
+      spriteId: 1064e888ff450654f8b4a1040cd1c6ce
+    - name: _Mobs_Bears_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 215
-      spriteId: 72e7066589b58eb4b9fc9d236d02f248
-    - name: Frame_13
+      spriteId: a360cc7c48d504f48aacd73d16de8c44
+    - name: _Mobs_Bears_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 214
-      spriteId: e7c816571cca3e145a4ddf6585fd6edf
-    - name: Frame_14
+      spriteId: 242b746d6f4a33a49b71b732b60a2171
+    - name: _Mobs_Bears_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 208
-      spriteId: cf139f84c803d4945b3b004164d5f7a2
-    - name: Frame_15
+      spriteId: f9f3adca836507e41bef9402c5a89e6a
+    - name: _Mobs_Bears_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 16
         width: 46
         height: 206
-      spriteId: abaf59428a8f5934794044ab116ac7e1
+      spriteId: a5a6fd788c76c984ebceec88bde8884d
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -631,4 +597,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 64, y: 256}
-  previousTextureSize: {x: 512, y: 512}
